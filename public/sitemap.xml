@@ -1,0 +1,361 @@
+<?xml-stylesheet type="text/xsl" href="http://alfredessa.netlify.app/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/post/even-preview/</loc>
+    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/about/</loc>
+    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/</loc>
+    <lastmod>2022-12-25T16:29:41-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/post/</loc>
+    <lastmod>2022-12-25T16:29:41-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/post/2022-12-25-test-post/</loc>
+    <lastmod>2022-12-25T16:29:41-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/categories/books/</loc>
+    <lastmod>2021-04-11T08:33:41-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/categories/</loc>
+    <lastmod>2021-04-11T08:33:41-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/post/2021-04-11-is-charles-murray-a-racist-examining-the-bell-curve-part-ii/</loc>
+    <lastmod>2021-04-11T08:33:41-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/iq-intelligence/</loc>
+    <lastmod>2021-04-11T08:33:41-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/</loc>
+    <lastmod>2021-04-11T08:33:41-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/post/2021-04-03-argument-of-the-bell-curve/</loc>
+    <lastmod>2021-04-03T14:36:11-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/cumulative-distribution-function/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/post/cumulative-distribution-function/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/categories/data-science/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/probability-distribution-function/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/statistics/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/categories/statistics/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/z-score/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/post/2020-12-01-r-rmarkdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/categories/category-2/</loc>
+    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/categories/category-3/</loc>
+    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/preview/</loc>
+    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/tag-3/</loc>
+    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/theme-preview/</loc>
+    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/categories/theme-preview/</loc>
+    <lastmod>2018-07-10T00:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/post/hidden-post/</loc>
+    <lastmod>2018-03-08T22:01:19+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/post/english-preview/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/english/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/categories/english/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/tag-2/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/post/japanese-preview/</loc>
+    <lastmod>2017-08-30T01:53:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/tag-4/</loc>
+    <lastmod>2017-08-30T01:53:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
+    <lastmod>2017-08-30T01:53:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
+    <lastmod>2017-08-30T01:53:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/post/chinese-preview/</loc>
+    <lastmod>2017-08-30T01:37:56+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/tag-1/</loc>
+    <lastmod>2017-08-30T01:37:56+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2017-08-30T01:37:56+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/categories/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2017-08-30T01:37:56+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/shortcodes/</loc>
+    <lastmod>2018-02-01T18:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/categories/shortcodes/</loc>
+    <lastmod>2018-02-01T18:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/post/shortcodes/</loc>
+    <lastmod>2018-02-01T18:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/post/js-flowchart-diagrams/</loc>
+    <lastmod>2015-03-04T21:57:50+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/post/js-sequence-diagrams/</loc>
+    <lastmod>2015-03-04T21:57:45+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/syntax-highlighting/</loc>
+    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/categories/syntax-highlighting/</loc>
+    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/post/syntax-highlighting/</loc>
+    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://alfredessa.netlify.app/tags/tag-5/</loc>
+    <lastmod>2018-11-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
